@@ -8,6 +8,10 @@ My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link](https://r
 ### Debra Ansell/GeekMomProjects Projects and Social Media
 - Triangle Light Tiles: [https://github.com/geekmomprojects/TriangleLightPanel](https://github.com/geekmomprojects/TriangleLightPanel)
 - Articulated PCBs ("Bendy Boards"): [https://github.com/geekmomprojects/ArticulatedPCBs](https://github.com/geekmomprojects/ArticulatedPCBs)
+- "Inner Glow" Light Projects
+  - Layered Edge-Lit Pendants (Butterfly on slide): [https://www.geekmomprojects.com/layered-edge-lit-pendants/](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
+  - "Innter Glow" Heart: [https://www.geekmomprojects.com/led-inner-glow-heart/](https://www.geekmomprojects.com/led-inner-glow-heart/)
+  - Edge-Lit Seven Segment Display: [https://www.geekmomprojects.com/edge-lit-seven-segment-display/](https://www.geekmomprojects.com/edge-lit-seven-segment-display/)
 - Blog: [http://www.geekmomprojects.com/](http://www.geekmomprojects.com/)
 - Twitter: [https://twitter.com/GeekMomProjects](https://twitter.com/GeekMomProjects)
 - Instagram: [https://www.instagram.com/geekmomprojects/](https://www.instagram.com/geekmomprojects/)
