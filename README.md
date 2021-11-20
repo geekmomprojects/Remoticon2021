@@ -18,8 +18,8 @@ My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link](https://r
 - Twitter: [https://twitter.com/GeekMomProjects](https://twitter.com/GeekMomProjects)
 - Instagram: [https://www.instagram.com/geekmomprojects/](https://www.instagram.com/geekmomprojects/)
 
-### Bright Wearables Store/Social Media
-- Store: [https://brightwearables.com/](https://brightwearables.com/shop/)
+### Bright Wearables Site/Social Media
+- Website: [https://brightwearables.com/](https://brightwearables.com/shop/)
 - Twitter: [https://twitter.com/BrightWearables](https://twitter.com/BrightWearables)
 - Instagram: [https://www.instagram.com/brightwearables/](https://www.instagram.com/brightwearables/)
 
