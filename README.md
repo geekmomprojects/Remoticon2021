@@ -20,8 +20,28 @@ My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link:](https://
 - Reflow Skillet Soldering: [https://www.sparkfun.com/tutorials/59](https://www.sparkfun.com/tutorials/59)
 
 ### PCB Makers/Projects From Talk
-- Dan Hienzsch/Rheingold Heavy
--- slsls
+-Mary Etta West
+ - Website: (https://www.ettawest.com/)[https://www.ettawest.com/]
+ - HackModWear: (https://www.ettawest.com/journal/2019/7/6/etta-and-gella-collaboration-hackmodwear)
+
+-Angela Sheehan
+ -Hack/Mod/Wear (https://hackaday.io/project/161767-hackmodwear)[https://hackaday.io/project/161767-hackmodwear]
+ -Hackaday: (https://hackaday.io/Gella)[https://hackaday.io/Gella]
+ -Twitter: (https://twitter.com/the_gella)[https://twitter.com/the_gella]
+ -Instagram: (https://www.instagram.com/gellacraft)[https://www.instagram.com/gellacraft]
+
+-Dan Hienzsch/Rheingold Heavy
+ -Website: (https://rheingoldheavy.com/) [https://rheingoldheavy.com/]
+ -Twitter: (https://twitter.com/rheingoldheavy)[https://twitter.com/rheingoldheavy]
+ -Instagram (https://www.instagram.com/rheingoldheavy/)[https://www.instagram.com/rheingoldheavy/]
+ 
+-Erik Bosman
+ -Twitter (https://twitter.com/brainsmoke)[https://twitter.com/brainsmoke]
+ -GitHub (https://github.com/brainsmoke)[https://github.com/brainsmoke]
+ 
+ -Elkei Education
+  - Website: (https://www.elkei.com.au/)[https://www.elkei.com.au/]
+  - Cat Lamp Soldering Kit: (https://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/)[https://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/]
 
 
 
