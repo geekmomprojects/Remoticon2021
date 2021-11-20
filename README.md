@@ -5,13 +5,15 @@ Main Remoticon Site: [https://remoticon.io/](https://remoticon.io/)
 
 My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link](https://remoticon.io/#Live) (to be replaced by YouTube archive when avaialable)
 
-### Debra Ansell/GeekMomProjects Projects and Social Media
+### GeekMomProjects Builds Mentioned in Talk
 - Triangle Light Tiles: [https://github.com/geekmomprojects/TriangleLightPanel](https://github.com/geekmomprojects/TriangleLightPanel)
 - Articulated PCBs ("Bendy Boards"): [https://github.com/geekmomprojects/ArticulatedPCBs](https://github.com/geekmomprojects/ArticulatedPCBs)
 - "Inner Glow" Light Projects
   - Layered Edge-Lit Pendants (Butterfly on slide): [https://www.geekmomprojects.com/layered-edge-lit-pendants/](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
   - "Innter Glow" Heart: [https://www.geekmomprojects.com/led-inner-glow-heart/](https://www.geekmomprojects.com/led-inner-glow-heart/)
   - Edge-Lit Seven Segment Display: [https://www.geekmomprojects.com/edge-lit-seven-segment-display/](https://www.geekmomprojects.com/edge-lit-seven-segment-display/)
+
+### GeekMomProjects Social Media
 - Blog: [http://www.geekmomprojects.com/](http://www.geekmomprojects.com/)
 - Twitter: [https://twitter.com/GeekMomProjects](https://twitter.com/GeekMomProjects)
 - Instagram: [https://www.instagram.com/geekmomprojects/](https://www.instagram.com/geekmomprojects/)
@@ -20,10 +22,6 @@ My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link](https://r
 - Store: [https://brightwearables.com/](https://brightwearables.com/shop/)
 - Twitter: [https://twitter.com/BrightWearables](https://twitter.com/BrightWearables)
 - Instagram: [https://www.instagram.com/brightwearables/](https://www.instagram.com/brightwearables/)
-
-### SparkFun PCB Tutorials
-- Using Eagle CAD for PCB Design: [https://learn.sparkfun.com/tutorials/tags/eagle](https://learn.sparkfun.com/tutorials/tags/eagle)
-- Reflow Skillet Soldering: [https://www.sparkfun.com/tutorials/59](https://www.sparkfun.com/tutorials/59)
 
 ### PCB Makers/Projects From Talk
 - **Mary Etta West**
@@ -47,6 +45,13 @@ My Talk: **Form is Function: Modular PCB Building Blocks** [Live Link](https://r
  - **Elkei Education**
    - Website: [https://www.elkei.com.au/](https://www.elkei.com.au/)
    - Cat Lamp Soldering Kit: [https://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/](https://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/)
+
+### SparkFun PCB Tutorials
+- Using Eagle CAD for PCB Design: [https://learn.sparkfun.com/tutorials/tags/eagle](https://learn.sparkfun.com/tutorials/tags/eagle)
+- Reflow Skillet Soldering: [https://www.sparkfun.com/tutorials/59](https://www.sparkfun.com/tutorials/59)
+
+### Rotating PCB Connector
+- [https://www.digikey.com/en/products/detail/amphenol-icc-fci/10120045-401LF/4996150](https://www.digikey.com/en/products/detail/amphenol-icc-fci/10120045-401LF/4996150)
 
 
 
