@@ -1,5 +1,11 @@
 # Remoticon2021 - Links and References
 
+### YouTube Link to Talk
+[Remoticon 2021: Modular PCB Assemblies](https://www.youtube.com/watch?v=vzc96or9RLY)
+
+### Hackaday Article about Talk
+[REMOTICON 2021 // DEBRA ANSELL CONNECTS PCB IN WAYS YOU DIDN’T EXPECT](https://hackaday.com/2022/01/20/remoticon-2021-debra-ansell-connects-pcb-in-ways-you-didnt-expect/)
+
 ### Remoticon 2021
 Main Remoticon Site: [https://remoticon.io/](https://remoticon.io/)
 
